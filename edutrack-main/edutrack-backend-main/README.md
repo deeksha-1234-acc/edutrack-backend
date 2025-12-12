@@ -89,7 +89,7 @@ Use **Postman** to test endpoints.
 ## 📁 Project Setup
 
 ```bash
-git clone https://github.com/BhoomikaNaik26/edutrack.git
+git clone https://github.com/deeksha-1234-acc/edutrack-backend.git
 cd edutrack-backend
 npm install
 
@@ -117,7 +117,7 @@ npx nodemon index.js
 
 
 ✅ Done By
-BHOMMIKA V NAIK
+H P DEEKSHA
 
 
 ## ✅ Export Postman Collection
@@ -138,7 +138,7 @@ In Postman:
 git init
 git add .
 git commit -m "EduTrack Student Management System Complete"
-git remote add origin https://github.com/BhoomikaNaik26/edutrack.git
+git remote add origin https://github.com/deeksha-1234-acc/edutrack.git
 git branch -M main
 git push -u origin main
 
